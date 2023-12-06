@@ -7,6 +7,7 @@ p {
     font-size: large;
     border: 5px solid purple;
     margin: 10px;
+    padding: 10px;
 }
 body {
     background-color: aquamarine;
